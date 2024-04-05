@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dot-5424-repository
+spec:
+  url: https://github.com/rhtap-hub/dot-5424
